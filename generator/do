@@ -1,0 +1,14 @@
+i = 0
+loop do
+ i += 2
+ 
+  # do stuff
+  pad = ".pad#{i} {padding: #{i}px}"
+  mar = ".mar#{i} {margin: #{i}px}"
+  `echo #{pad} >> padmar.css`
+  `echo #{mar} >> padmar.css`
+
+ if i == 200
+  break
+ end
+end
