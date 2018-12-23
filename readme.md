@@ -6,4 +6,4 @@ Includes generator (in Ruby).
 
 In pixels, increment 2px.
 
-&copy; JMT / theoryforce.com
+(c) 2018 JMT / theoryforce.com
