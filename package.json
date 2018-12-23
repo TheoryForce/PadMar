@@ -1,0 +1,44 @@
+{
+  "name": "padmar.css",
+  "version": "1.4.0",
+  "style": "dist/padmar.css",
+  "homepage": "https://github.com/TheoryForce/PadMar",
+  "description": "CSS library to add madding and pargin as a class. Includes generator.",
+  "keywords": [
+    "css",
+    "design",
+    "a11y",
+    "postcss",
+    "formatting",
+    "css",
+    "oocss",
+    "padding",
+    "margin"
+  ],
+  "devDependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TheoryForce/PadMar"
+  },
+  "bugs": {
+    "url": "https://github.com/TheoryForce/PadMar/issues",
+    "email": "mgmt@theoryforce.com"
+  },
+  "author": {
+    "name": "TheoryForce",
+    "email": "mgmt@theoryforce.com",
+    "url": "https://theoryforce.com"
+  },
+  "contributors": [
+    {
+      "name": "TheoryForce",
+      "email": "mgmt@theoryforce.com"
+    }
+  ],
+  "engines": {
+  },
+  "scripts": {
+  },
+  "license": "MIT"
+}
