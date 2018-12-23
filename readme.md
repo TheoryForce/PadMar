@@ -1,10 +1,20 @@
-# PadMar
+# PadMar.CSS
 
-> CSS library to add madding and pargin 
+> CSS library to add madding and pargin
 
 Includes generator (in Ruby). In pixels, increment 2px.
 
-## How to use 
+## How to use
+
+**With npm**
+
+`npm i --save-dev padmar.css`
+
+**With Git**
+
+`git clone https://github.com/TheoryForce/PadMar.git`
+
+**Or simply...**
 
 The library can be found in the `dist` directory. You can link it in your template like any other CSS file.
 
